@@ -1,0 +1,21 @@
+Reading list:
+- Real Analysis
+  - Understanding Analysis by Stephen Abbott
+- Linear Algebra
+  - Linear Algebra Done Right by Sheldon Axler
+- Point Set Topology
+  - MAT327 Course Notes: https://www.math.toronto.edu/ivan/mat327/?resources
+  - Topology: Jame R. Munkres
+- Complex Analysis
+  - Intro Book: “Visual Complex Functions: an Introduction with Phase Portraits” by Elias Wegert
+  - More Technical Book: “Complex Analysis” by Serge Lang
+- Group Theory
+  - Topics in Algebra by Herstein
+  - Abstract Algebra: https://www.youtube.com/playlist?list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5
+- Galois Theory: 
+  - Notes by Tom Leinster: https://www.maths.ed.ac.uk/~tl/gt/gt.pdf
+- Differential Geometry
+  - Book: Introduction to Differentiable Manifolds and Riemannian Geometry by Boothby
+- Algebraic Topology:
+  - Book: Algebraic Topology by Allen Hatcher (https://pi.math.cornell.edu/~hatcher/AT/ATpage.html)
+  - EMS (Euroupe Mathematics Text): https://www.maths.ed.ac.uk/~v1ranick/papers/diecktop.pdf
