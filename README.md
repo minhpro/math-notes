@@ -1,8 +1,32 @@
-Reading list:
+- Calculus
+  - Jame Stewart
+  - Larson, Hosteller, Edwards
+  - Michael Spivak
+  - Tom 
 - Real Analysis
   - Understanding Analysis by Stephen Abbott
+  - Introduction to Real Analysis - Robert G. Bartle
+  - Real Analysis - a long form mathematics textbook
 - Linear Algebra
   - Linear Algebra Done Right by Sheldon Axler
+  - https://math.mit.edu/~gs/linearalgebra/ila5/indexila5.html
+- Algebra
+  - Algebra - Serge Lang
+  - A Companion to Lang's Algebra https://math.berkeley.edu/~gbergman/.C.to.L/
+  - An Invitation to General Algebra and Universal Constructions - George M. Bergman
+  - Algebra - Paolo Aluffi
+  - Basic Algebra and Advanced Algebra by Anthony Knapp
+  - Basic Algebra I and Basic Algebra II by Nathan Jacobson
+  - Basic Algebra and Further Algebra and Applications by Paul Cohn
+- Ordinary Differential Equations
+  - Ordinary Differential Equations Morris Tenenbaum
+- Differential Equation
+  - Differential Equations with Applications and Historical Notes
+  - Partial Differential Equations - Michael E. Taylor
+  - Jürgen Jost
+  - Lawrence C. Evans
+  - Differential Geometry: Connections, Curvature, and Characteristic Classes
+  - Introduction to Partial Differential Equations - Peter J. Olver
 - Point Set Topology
   - MAT327 Course Notes: https://www.math.toronto.edu/ivan/mat327/?resources
   - Topology: Jame R. Munkres
@@ -19,3 +43,20 @@ Reading list:
 - Algebraic Topology:
   - Book: Algebraic Topology by Allen Hatcher (https://pi.math.cornell.edu/~hatcher/AT/ATpage.html)
   - EMS (Euroupe Mathematics Text): https://www.maths.ed.ac.uk/~v1ranick/papers/diecktop.pdf
+- Algebraic Geometry
+  - Algebraic Geometry - Ronbin Hartshorne
+  - Commutative Algebra: with a View Toward Algebraic Geometry - David Eisenbud
+  - An Introduction to Homological Algebra - Charles A. Weibel
+  - An Introduction to Homological Algebra lecture notes - Tomi Pannila
+
+MIT Mathematics roadmap:
+- https://math.mit.edu/academics/undergrad/roadmaps.html
+- https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/pages/readings/course-reader/
+- Edwards, C., and D. Penney. Elementary Differential Equations with Boundary Value Problems
+- https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/pages/readings/notes_exe/
+- https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-summer-2020/pages/lecture-notes/
+
+Analytic Combinatorics: https://www.youtube.com/watch?v=qap2MyBTSZk&list=PLoWHl5YajIf49nz2sJD3ut4emb1m8Mu5r
+
+Physics:
+- Mathematical Methods of Classical Mechanics
